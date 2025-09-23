@@ -1,6 +1,7 @@
 {
   "name": "react-vite-ts",
   "private": true,
+  "type": "module",
   "version": "0.0.0",
   "scripts": {
     "start": "vite --port 4200",
